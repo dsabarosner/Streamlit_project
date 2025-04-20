@@ -3,8 +3,7 @@ import streamlit as st
 import plotly.express as px
 
 # Leer los datos
-car_df = pd.read_csv(
-    'C:/Users/Daniela/repositorios/proyecto_sprint7/vehicles_us.csv')
+car_df = pd.read_csv('vehicles_us.csv')
 car_df.info()
 
 # Opciones para los gráficos
