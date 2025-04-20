@@ -6,3 +6,5 @@ La aplicación proporciona las siguientes funcionalidades:
 - Histogramas: Construye histogramas de las variables odometer (kilometraje) y cylinders (el número de cilindros).
 - Gráficos de dispersión: Mostrando la relación del precio de los vehículos y el kilometraje o número de cilindros.
 - Comparaciones: Compara a través de un histograma la distribución de precios según marcas.
+
+Aplicación en Render: https://proyecto-sprint7-xs3a.onrender.com
