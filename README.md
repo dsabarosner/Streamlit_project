@@ -1,5 +1,5 @@
-# proyecto_sprint7
-Repositorio para el proyecto del sprin 7
+# Proyecto de streamlit
+Repositorio para el proyecto de streamlit
 
 Esta aplicación web permite analizar y visualizar los datos relacionados con anuncios de venta de vehículos en Estados Unidos. Se desarrolló con Python, Streamlit y Plotly express facilitando el análisis visual del dataset. La aplicación está pensada para ayudar a los usuarios a comprender las características principales de los vehículos en venta y como estas inciden en el precio.
 La aplicación proporciona las siguientes funcionalidades:
